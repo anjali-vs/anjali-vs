@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
-🎓 **Future Software Developer | Problem-Solving Aficionado | Tech Visionary**
+🎓 <b>Future Software Developer | Problem-Solving Aficionado | Tech Visionary</b>
 
 💻 Passionate about coding, crafting efficient solutions, and exploring Generative AI.  
 
